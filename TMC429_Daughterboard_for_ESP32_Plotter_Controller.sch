@@ -150,7 +150,7 @@ Wire Wire Line
 Wire Wire Line
 	4950 2300 5200 2300
 Wire Wire Line
-	4950 2500 5350 2500
+	4950 2500 5100 2500
 Wire Wire Line
 	2200 2200 2200 1200
 Connection ~ 2200 2200
@@ -186,8 +186,6 @@ Text Label 2000 1200 3    50   ~ 0
 MISO
 Wire Wire Line
 	1850 2400 2250 2400
-Wire Wire Line
-	4950 2400 5100 2400
 Text Notes 1750 3550 0    50   ~ 0
 TMC429 SPI Chip Select (was X_Dir)
 Text Notes 1750 3750 0    50   ~ 0
@@ -308,11 +306,6 @@ Wire Wire Line
 Connection ~ 5200 2300
 Wire Wire Line
 	5200 2300 5350 2300
-Wire Wire Line
-	5100 2400 5100 1200
-Connection ~ 5100 2400
-Wire Wire Line
-	5100 2400 5350 2400
 Text Label 5100 1200 3    50   ~ 0
 MISO
 Text Label 5200 1200 3    50   ~ 0
@@ -690,4 +683,11 @@ Wire Wire Line
 	10550 2550 10550 2975
 Wire Wire Line
 	9350 2975 10550 2975
+Connection ~ 5100 2500
+Wire Wire Line
+	5100 2500 5350 2500
+Wire Wire Line
+	4950 2400 5350 2400
+Wire Wire Line
+	5100 1200 5100 2500
 $EndSCHEMATC

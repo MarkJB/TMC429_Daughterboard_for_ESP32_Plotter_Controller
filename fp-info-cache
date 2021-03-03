@@ -1,4 +1,4 @@
-19122725170748584
+19108208921399885
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83090,34 +83090,6 @@ TMC429-BOB
 22
 22
 custom
-db_200
-
-
-0
-0
-0
-custom
-db_400
-
-
-0
-0
-0
-custom
-db_800
-
-
-0
-0
-0
-custom
-dc_
-
-
-0
-0
-0
-custom
 dc_7mm
 
 
@@ -83161,41 +83133,6 @@ dc_600
 0
 custom
 dc_800
-
-
-0
-0
-0
-custom
-dg_200
-
-
-0
-0
-0
-custom
-dg_400
-
-
-0
-0
-0
-custom
-dg_800
-
-
-0
-0
-0
-custom
-hokusai
-
-
-0
-0
-0
-custom
-hokusai_200
 
 
 0

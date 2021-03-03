@@ -5,13 +5,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "TMC429 Daughterboard for ESP32 Plotter Controller"
-Date "2021-02-15"
+Date "2021-02-20"
 Rev "A"
 Comp "Mark Benson"
-Comment1 "github.com/markjb/<repo>"
+Comment1 "github.com/markjb/TMC429_Daughterboard_for_ESP32_Plotter_Controller"
 Comment2 ""
-Comment3 ""
-Comment4 "Daughterboard designed to fit 'Diamond Chimp'"
+Comment3 "Daughterboard deisgn to fit RevA 'Diamond Chimp'"
+Comment4 "Designed to test the TMC429 monition controller BOB"
 $EndDescr
 $Comp
 L custom:TMC2130 U1
