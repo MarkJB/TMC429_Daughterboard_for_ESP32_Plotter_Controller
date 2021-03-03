@@ -6,12 +6,14 @@ This is an add-on (daughterboard) for the ESP32 Plotter Controller board (Rev A)
 
 Firmware TBD
 
-![FreeCAD Render of board assemby]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/main/pcb_assemby_1.png )
+[Schematic]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/master/schematic.pdf )
 
-![FreeCAD Render of board assemby]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/main/pcb_assemby_2.png )
+![FreeCAD Render of board assemby]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/master/pcb_assembly_1.png )
 
-![Render of top of board]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/main/TMC429_Daughterboard_for_ESP32_Plotter_Controller_top.png )
+![FreeCAD Render of board assemby]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/master/pcb_assembly_2.png )
 
-![Render of bottom of board]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/main/TMC429_Daughterboard_for_ESP32_Plotter_Controller_bottom.png )
+![Render of top of board]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/master/TMC429_Daughterboard_for_ESP32_Plotter_Controller_top.png )
 
-[Schematic]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/main/TMC429_Daughterboard_for_ESP32_Plotter_Controller.pdf )
+![Render of bottom of board]( https://github.com/MarkJB/TMC429_Daughterboard_for_ESP32_Plotter_Controller/blob/master/TMC429_Daughterboard_for_ESP32_Plotter_Controller_bottom.png )
+
+
